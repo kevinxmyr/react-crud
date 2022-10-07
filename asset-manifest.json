@@ -1,16 +1,29 @@
 {
-  "main.css": "/react-crud/static/css/main.6b77887f.chunk.css",
-  "main.js": "/react-crud/static/js/main.48ac1ffd.chunk.js",
-  "main.js.map": "/react-crud/static/js/main.48ac1ffd.chunk.js.map",
-  "runtime~main.js": "/react-crud/static/js/runtime~main.73d447a4.js",
-  "runtime~main.js.map": "/react-crud/static/js/runtime~main.73d447a4.js.map",
-  "static/css/2.d025ef15.chunk.css": "/react-crud/static/css/2.d025ef15.chunk.css",
-  "static/js/2.3008eba3.chunk.js": "/react-crud/static/js/2.3008eba3.chunk.js",
-  "static/js/2.3008eba3.chunk.js.map": "/react-crud/static/js/2.3008eba3.chunk.js.map",
-  "index.html": "/react-crud/index.html",
-  "precache-manifest.f524f971a27c36d5981d524ff06671d0.js": "/react-crud/precache-manifest.f524f971a27c36d5981d524ff06671d0.js",
-  "service-worker.js": "/react-crud/service-worker.js",
-  "static/css/2.d025ef15.chunk.css.map": "/react-crud/static/css/2.d025ef15.chunk.css.map",
-  "static/css/main.6b77887f.chunk.css.map": "/react-crud/static/css/main.6b77887f.chunk.css.map",
-  "static/media/semantic.min.css": "/react-crud/static/media/outline-icons.ef60a4f6.woff"
+  "files": {
+    "main.css": "/react-crud/static/css/main.75106d60.css",
+    "main.js": "/react-crud/static/js/main.0e3a39f6.js",
+    "static/media/brand-icons.svg": "/react-crud/static/media/brand-icons.6729d29753e000c17489.svg",
+    "static/media/icons.svg": "/react-crud/static/media/icons.62d9dae4e0040e81c980.svg",
+    "static/media/outline-icons.svg": "/react-crud/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
+    "static/media/icons.eot": "/react-crud/static/media/icons.a01e3f2d6c83dc3aee17.eot",
+    "static/media/icons.ttf": "/react-crud/static/media/icons.c656b8caa454ed19b9a2.ttf",
+    "static/media/brand-icons.eot": "/react-crud/static/media/brand-icons.d68fa3e67dbb653a13ce.eot",
+    "static/media/brand-icons.ttf": "/react-crud/static/media/brand-icons.65a2fb6d9aaa164b41a0.ttf",
+    "static/media/brand-icons.woff": "/react-crud/static/media/brand-icons.cac87dc00c87a5d74711.woff",
+    "static/media/brand-icons.woff2": "/react-crud/static/media/brand-icons.278156e41e0ad908cf7f.woff2",
+    "static/media/icons.woff": "/react-crud/static/media/icons.425399f81e4ce7cbd967.woff",
+    "static/media/icons.woff2": "/react-crud/static/media/icons.38c6d8bab26db77d8c80.woff2",
+    "static/media/outline-icons.eot": "/react-crud/static/media/outline-icons.752905fa5edf21fc52a1.eot",
+    "static/media/outline-icons.ttf": "/react-crud/static/media/outline-icons.5367103510b27b784827.ttf",
+    "static/media/flags.png": "/react-crud/static/media/flags.99f63ae7a743f21ab308.png",
+    "static/media/outline-icons.woff": "/react-crud/static/media/outline-icons.ddae9b1ba9b0b42f5880.woff",
+    "static/media/outline-icons.woff2": "/react-crud/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
+    "index.html": "/react-crud/index.html",
+    "main.75106d60.css.map": "/react-crud/static/css/main.75106d60.css.map",
+    "main.0e3a39f6.js.map": "/react-crud/static/js/main.0e3a39f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75106d60.css",
+    "static/js/main.0e3a39f6.js"
+  ]
 }
