@@ -22,7 +22,7 @@ function App() {
       </nav>
       
         <div style={{ marginBottom: "20px" }}>
-          <h3>Read CRUD Operations</h3>
+          <h3>React CRUD</h3>
 
           <div>
             <Route exact path='/create' component={Create} />
