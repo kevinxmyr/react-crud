@@ -1,0 +1,13 @@
+.main{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(81, 81, 81);
+  color: white;
+  flex-direction: column;
+}
+
+label{
+  color: white;
+}
